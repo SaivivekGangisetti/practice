@@ -1,1 +1,2 @@
-this is my new git file \n hello world 
+this is my new git file  
+hello world 
